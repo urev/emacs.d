@@ -24,6 +24,7 @@
 	'(c/c++-clang c/c++-cppcheck c/c++-gcc))
 
   (setq ccls-executable (executable-find "ccls"))
+  (setq lsp-lens-enable nil)
   (setq lsp-headerline-breadcrumb-enable nil)
   (lsp)
 
