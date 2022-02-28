@@ -29,7 +29,7 @@
   (lsp)
 
   (setq c-basic-offset 4)
-  (add-hook 'before-save-hook 'fcs-cc-reformat nil t))
+  (add-hook 'before-save-hook 'fcs-cc-reformat-h nil t))
 
 (with-eval-after-load 'cc-mode
   (add-hook 'c-mode-common-hook 'fcs-cc-setup-h))
