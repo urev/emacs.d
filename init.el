@@ -35,5 +35,6 @@
 (require 'fcs-cc)
 (require 'fcs-elisp)
 (require 'fcs-go)
+(require 'fcs-python)
 
 ;;; init.el ends here

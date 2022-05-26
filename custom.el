@@ -5,7 +5,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (yasnippet-snippets zenburn-theme yasnippet which-key smartparens ox-hugo neotree hl-todo helm-projectile helm-ag go-eldoc flycheck evil doom-modeline company-go clang-format ccls beacon ag))))
+    (elpy zenburn-theme yasnippet-snippets which-key smartparens neotree hl-todo helm-projectile helm-ag go-eldoc flycheck evil doom-modeline company-go clang-format ccls beacon ag))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
